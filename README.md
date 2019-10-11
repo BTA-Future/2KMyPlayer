@@ -1,20 +1,15 @@
 # About
 
-This is a formula for my favorite type of workout. To do this workout you choose two muscle groups (one **big** and one *small*) and choose appropriate exercises for each section.
-
-> Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.
-
-Arnold Schwarzenegger
+2K is a basketball game where you can create your own character, play on any team, and play onlne in park with friends or random play to dominate the courrt
 
 # Terminology
 
-1. Rep: The number of times you perform an exercise
-2. Set: The number of cycles of reps that you complete
-3. Superset: Alternating sets of two different exercises with no rest in between
+Noob: A new player
+park: online games to play with friends in Mycareer
 
-# Muscle Groups
+# builds
 
-![Skeleton of Muscle Groups](./skeleton.jpg)
+(./maxresdefault.jpg)
 
 ## Big Muscle Groups
 
