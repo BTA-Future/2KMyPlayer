@@ -8,39 +8,93 @@ Noob: A new player
 park: online games to play with friends in Mycareer
 
 # builds
+![2K MyPlayer Build](./2kbuild.jpg)
 
-(./maxresdefault.jpg)
+## Positions
 
-## Big Muscle Groups
+- **Point Guard**
+- **Shooting Guard**
+- **Small Forward**
+- **Power Forward**
+- **Center**
 
-- **Upper Back**
-- **Lower Back**
-- **Chest**
-- **Legs**
-- **Shoulders**
+## Archetypes
 
-## Small Muscle Groups
+**Point Guard:**
 
-- *Biceps*
-- *Triceps*
-- *Calves*
-- *Abdominals*
+- Sharpshooting Playmaker
 
-# The Workout
+- Playmaking Sharpshooter
 
-## Warmup
+- Shot-Creating Sharpshooter
 
-1. Cardio: 10-15 minutes
-2. Stretch
+- Shot-Creating Slasher
 
-## Part 1: Main Muscle Group
+- Playmaking Shot Creator
 
-Your **main muscle group** should be your **big muscle group** for the day.
+**Shooting Guard:**
 
-### Heavy Exercise
+- Pure Sharpshooter
 
-1. 2 Warmup sets (10 reps)
-2. 5 Working sets (5 reps)
+- Sharpshooting Shot Creator
+
+- Pure Lockdown Defender
+
+- Two Way Slasher
+
+- Slashing Shot Creator
+
+**Small Forward:**
+
+- Pure Lockdown Defender
+
+- Two Way Sharpshooter
+
+- Shot Creating Sharpshooter
+
+- Slashing Defender
+
+- Sharpshooting Slasher
+
+**Power Forward:**
+
+- Sharpshooting Rebounder
+
+- Slashing Stretch 4
+
+- Shot Creating Post Scorer
+
+- Two Way Athletic Finisher
+
+- Sharpshooting Rim Protector
+
+**Center:**
+
+- Pure Glass Cleaner
+
+- Pure Rim Protector
+
+- Sharpshooting Rebounder
+
+- Rebounding Post Scorer
+
+- Rebounding Athletic Finisher
+
+# The Creation
+
+## Features
+
+1. Facial Features
+2. Bodily features(height and weight)
+
+## Part 1:
+
+You can use a face scanner if you would like
+
+### Creating your Face
+
+1. fully edit your cheeks,mouth,jaw,etes,nose,forehead, ears
+2. customize your hair with many shades, color and designs
 
 ### Light Exercise
 
