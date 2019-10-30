@@ -32,7 +32,7 @@ park: online games to play with friends in Mycareer
 
 - Playmaking Shot Creator
 
-** *Shooting Guard* :**
+*Shooting Guard* :
 
 - Pure Sharpshooter
 
@@ -44,7 +44,7 @@ park: online games to play with friends in Mycareer
 
 - Slashing Shot Creator
 
-** *Small Forward* :**
+ *Small Forward* :
 
 - Pure Lockdown Defender
 
@@ -56,7 +56,7 @@ park: online games to play with friends in Mycareer
 
 - Sharpshooting Slasher
 
-** *Power Forward*:**
+ *Power Forward*:
 
 - Sharpshooting Rebounder
 
@@ -68,7 +68,7 @@ park: online games to play with friends in Mycareer
 
 - Sharpshooting Rim Protector
 
-** *Center *:**
+*Center *:
 
 - Pure Glass Cleaner
 
