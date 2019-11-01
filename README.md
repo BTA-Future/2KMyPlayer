@@ -32,7 +32,7 @@ park: online games to play with friends in Mycareer
 
 - Playmaking Shot Creator
 
-*Shooting Guard* :
+ *Shooting Guard* :
 
 - Pure Sharpshooter
 
@@ -68,7 +68,7 @@ park: online games to play with friends in Mycareer
 
 - Sharpshooting Rim Protector
 
-*Center *:
+ *Center *:
 
 - Pure Glass Cleaner
 
@@ -89,153 +89,17 @@ park: online games to play with friends in Mycareer
 
 ## Part 1:
 
-You can use a face scanner if you would like
+You can use a face scanner if you would like.
 
 ### Creating your Face
 
-1. fully edit your cheeks,mouth,jaw,etes,nose,forehead, ears
-2. customize your hair with many shades, color and designs
+1. fully edit your cheeks,mouth,jaw,etes,nose,forehead, ears.
+2. customize your hair with many shades, color and designs.
 
-### Light Exercise
+## Part 2:The body
+1.you can edit the hieght, weight and wing span of your character.
+1. But depending on how you edit them it will increase some stats and decrease them.
 
-1. 1 Warmup set (10 reps)
-2. 3 Working sets (8 reps)
+## Further development
 
-## Part 2: Secondary Muscle Group (Superset)
-
-Your *secondary muscle group* should be your *small muscle group* for the day. This is done in a superset so exercises are done back to back one set at a time.
-
-### Heavy Exercise
-
-1. 1 Warmup set (10 reps)
-2. 4 Working sets (8 reps)
-
-### Lighter Exercise
-
-1. 3 Working sets (10 reps)
-
-## Part 3: Muscle Group Closer
-
-### Main Muscle Group Closer
-
-1. 3 sets (10 reps)
-
-### Secondary Muscle Group Closer
-
-1. 3 sets (10 reps)
-
-## Core (Superset)
-
-### Abdominals
-
-1. 3 sets
-
-### Lower Back
-
-1. 3 sets
-
-# Exercises
-
-## Big Muscle Groups
-
-### Upper Back
-
-#### Heavy
-
-- Rows (Any Variant)
-- Lat Pull Down
-
-#### Light
-
-- Pullups (Any Variant)
-- Flys (Any Variant)
-
-### Lower Back
-
-#### Heavy
-
-- Deadlift (Any Variant)
-- Good Mornings
-
-#### Light
-
-- Superman
-- Hyperextensions (Any Variant)
-- Jefferson Curl
-
-### Chest
-
-#### Heavy
-
-- Barbell Bench Press (Any Variant)
-- Dumbbell Bench Press (Any Variant)
-
-#### Light
-
-- Pushups
-- Cable Crossover (Any Variant)
-- Dumbbell Flyes (Any Variant)
-
-### Legs
-
-#### Heavy
-
-- Squats (Any Variant)
-- Leg Press (Any Variant)
-- Deadlift
-
-#### Light
-
-- Lunges
-- Jump Rope
-- Lying Leg Curls
-- Leg Extensions
-
-### Shoulders
-
-#### Heavy
-
-- Military Press
-- Arnold Press
-- Dumbbell Press
-- Shrugs
-
-#### Light
-
-- Lateral Raise
-- Front Raise
-- Face Pull
-
-## Small Muscle Groups
-
-### Biceps
-
-#### Heavy
-
-- Hammer Curls
-- Preacher Curls
-- Barbell Curl
-- Dumbbell Bicep Curl
-
-#### Light
-
-- EZ-Bar Curl
-- 21s
-
-### Triceps
-
-#### Heavy
-
-- Close Grip Bench Press
-- Dumbell Tricep Extension
-- Tricep Press
-
-#### Light
-
-- Dips
-- Tricep Push Downs
-- Skull Crushers
-
-# Plans For Future Development
-
-In the future, I would like to add more exercises, add a full sample workout routine, and add different workout formulas. In addition, I would like to add videos of each exercise or links to descriptions. In the far future I would like people to video tape themselves completing exercises and use image recognition software, artificial intelligence, and machine learning to analyze user's form completing exercises and offer suggestions for improvement.
+The arctypes can be further detailed so centers cant be too good from the three and smaller players have a harder time gaurding big men but are faster
